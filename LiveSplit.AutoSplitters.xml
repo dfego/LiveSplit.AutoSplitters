@@ -29529,4 +29529,16 @@
         <Description>Autosplitting is available. (By Rynon0147 and SBDWolf)</Description>
         <Website>https://github.com/Rynon0147/MinaTheHollower-autosplitter</Website>
     </AutoSplitter>
+    </AutoSplitter>
+        <AutoSplitter>
+        <Games>
+            <Game>Supraland Six Inches Under</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/dfego/autosplitters/refs/heads/main/Supraland%20SIU%20-%20Any%25%20Glitchless.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Supraland SIU, designed for Any% Glitchless</Description>
+        <Website>https://github.com/dfego/autosplitters</Website>
+    </AutoSplitter>
 </AutoSplitters>
